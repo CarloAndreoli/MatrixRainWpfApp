@@ -26,3 +26,9 @@ My original post on [codeproject](https://www.codeproject.com/Articles/5164199/M
 
 ```bash
 git clone https://github.com/yourusername/MatrixRainWPF.git
+```
+
+## ⚠️ Font License Notice
+You can find the embedded font here: [Matrix Code NFI](https://www.1001fonts.com/matrix-code-nfi-font.html).  
+
+This font is free for personal use only.
