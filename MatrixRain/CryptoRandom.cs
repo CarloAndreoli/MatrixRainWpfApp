@@ -57,10 +57,10 @@ namespace MatrixRain
 		 * <param name="minValue">The inclusive lower bound of the random number returned.</param>
 		 * <param name="maxValue">The exclusive upper bound of the random number returned. maxValue must be greater than or equal to minValue.</param>
 		 */
-		public int Next(int minPValue, int maxPValue)
-		{
-			return (int)Math.Round(NextDouble() * (maxPValue - minPValue - 1)) + minPValue;
-		}
+                public int Next(int minPValue, int maxPValue)
+                {
+                        return (int)(NextDouble() * (maxPValue - minPValue)) + minPValue;
+                }
 		/**
 		 * <summary>
 		 * Returns a nonnegative random number
@@ -75,7 +75,7 @@ namespace MatrixRain
 		 * <summary>
 		 * Returns a nonnegative random number less than the specified maximum
 		 * </summary>
-		 * <param name="maxValue">The inclusive upper bound of the random number returned. maxValue must be greater than or equal 0</param>
+                 * <param name="maxValue">The exclusive upper bound of the random number returned. maxValue must be greater than or equal 0</param>
 		 */
 		public int Next(int maxValue)
 		{
