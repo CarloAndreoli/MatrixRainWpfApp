@@ -1,0 +1,20 @@
+# Visual Studio build files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.tmp
+ipch/
+*.dbmdl
+*.dbmdl
+*.localhistory/
+# Others
+*.userprefs
+*.csproj.user
+*.sln.docstates
+packages/*
+*.nupkg
