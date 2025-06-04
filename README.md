@@ -2,7 +2,7 @@
 
 A lightweight WPF UserControl that simulates the iconic Matrix "digital rain" effect using `DrawingVisual` for efficient rendering.
 
-My original post on [codeproject](https://www.codeproject.com/Articles/5164199/Matrix-Style-Rain-in-Csharp-with-WPF)
+My original post on 
 
 ## ✨ Features
 
@@ -13,7 +13,7 @@ My original post on [codeproject](https://www.codeproject.com/Articles/5164199/M
 
 ## 📸 Preview
 
-![Matrix Rain Effect](./Images/intro.png) <!-- Replace with your actual image path -->
+![Matrix Rain Effect](./Images/intro.png) 
 
 ## 🛠️ Getting Started
 
@@ -27,6 +27,12 @@ My original post on [codeproject](https://www.codeproject.com/Articles/5164199/M
 ```bash
 git clone https://github.com/yourusername/MatrixRainWPF.git
 ```
+
+## 📚 References
+
+My original article on codeproject:  
+[Matrix-Style Rain in C# with WPF on Codeproject](https://www.codeproject.com/Articles/5164199/Matrix-Style-Rain-in-Csharp-with-WPF)
+
 
 ## ⚠️ Font License Notice
 You can find the embedded font here: [Matrix Code NFI](https://www.1001fonts.com/matrix-code-nfi-font.html).  
